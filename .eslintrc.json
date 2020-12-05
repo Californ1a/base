@@ -19,6 +19,7 @@
 		"no-tabs": 0,
 		"indent": ["error", "tab"],
 		"linebreak-style": ["error", "windows"],
-		"quotes": ["error", "double"]
+		"quotes": ["error", "double"],
+		"no-nested-ternary": 0
 	}
 }
